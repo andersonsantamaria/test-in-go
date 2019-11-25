@@ -1,0 +1,11 @@
+mode: set
+ejercicios-de-prueba/src/operations/sum.go:6.55,8.2 1 1
+ejercicios-de-prueba/src/operations/sum.go:11.90,12.22 1 1
+ejercicios-de-prueba/src/operations/sum.go:15.2,15.54 1 1
+ejercicios-de-prueba/src/operations/sum.go:12.22,14.3 1 1
+ejercicios-de-prueba/src/transform/square.go:4.48,7.45 2 1
+ejercicios-de-prueba/src/transform/square.go:11.2,11.20 1 1
+ejercicios-de-prueba/src/transform/square.go:7.45,9.3 1 1
+ejercicios-de-prueba/src/writer/hello.go:4.32,5.16 1 1
+ejercicios-de-prueba/src/writer/hello.go:9.2,9.24 1 1
+ejercicios-de-prueba/src/writer/hello.go:5.16,7.3 1 1
